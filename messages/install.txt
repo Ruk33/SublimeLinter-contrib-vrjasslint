@@ -1,0 +1,10 @@
+SublimeLinter-contrib-vrjasslint
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to vrjasslint.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/Ruk33/SublimeLinter-contrib-vrjasslint
