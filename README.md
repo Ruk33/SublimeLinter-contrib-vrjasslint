@@ -50,6 +50,7 @@ If you don't have anything (or you're too lazy), paste this:
 ```
 
 delay: How much to wait before running the compiler
+
 args: Make sure to replace the paths and Do NOT change the order!
 
 [docs]: http://sublimelinter.readthedocs.org
