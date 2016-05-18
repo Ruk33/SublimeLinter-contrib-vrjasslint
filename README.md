@@ -7,7 +7,7 @@ This linter plugin for [SublimeLinter][docs] provides an interface to [vrjasslin
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
 
 1. Install [SublimeLinter](http://sublimelinter.readthedocs.io/en/latest/installation.html#installing-via-pc)
-2. Download this project as ZIP
+2. Download this project as [ZIP](https://github.com/Ruk33/SublimeLinter-contrib-vrjasslint/archive/master.zip)
 2. Go to SublimeText, Click Preferences -> Browse Packages...
 3. Unzip there.
 
