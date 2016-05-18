@@ -55,5 +55,9 @@ delay: How much to wait before running the compiler
 
 args: Make sure to replace the paths and Do NOT change the order!
 
+
+## In action
+![](http://i.imgur.com/DdEZ3fA.gif)
+
 [docs]: http://sublimelinter.readthedocs.org
 [installation]: http://sublimelinter.readthedocs.org/en/latest/installation.html
